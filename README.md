@@ -27,3 +27,7 @@ Accurately predicting the stock markets is a complex task as there are millions 
 
 ### Overall Architecture
 <img width="851" alt="Screen Shot 2022-05-15 at 3 03 39 PM" src="https://user-images.githubusercontent.com/61389741/168491694-cc1ac9df-d376-49cb-bd70-ce227485a21b.png">
+
+The Repo contains following files and folder:
+
+Data- Datasets 
