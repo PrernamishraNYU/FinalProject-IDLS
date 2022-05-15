@@ -1,5 +1,7 @@
 # FinalProject-IDLS
 
+## Stock Market Predictions with Natural Language Processing and Deep Learning
+
 This project analyzes Amazon Stock data using Python. 
 
 Feature Extraction is performed and ARIMA and Fourier series models are made. 
