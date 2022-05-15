@@ -2,6 +2,7 @@
 
 ## Stock Market Predictions with Natural Language Processing and Deep Learning
 
+
 This project analyzes Amazon Stock data using Python. 
 
 Feature Extraction is performed and ARIMA and Fourier series models are made. 
@@ -10,6 +11,7 @@ LSTM is used with multiple features to predict stock prices and then sentimental
 
 GANs are used to predict stock data too where Amazon data is taken from an API as Generator and CNNs are used as discriminator.
 
+Natural Language Processing(NLP) will also be used in this project to analyze the influence of News on stock prices.
 
 
 Accurately predicting the stock markets is a complex task as there are millions of events and pre-conditions for a particilar stock to move in a particular direction. So we need to be able to capture as many of these pre-conditions as possible. We also need make several important assumptions: 1) markets are not 100% random, 2) history repeats, 3) markets follow people's rational behavior, and 4) the markets are 'perfect'.
